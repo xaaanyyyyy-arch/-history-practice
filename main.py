@@ -1,1 +1,1 @@
-Add main flie
+print("Main file")
