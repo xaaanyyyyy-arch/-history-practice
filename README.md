@@ -46,4 +46,18 @@ python calculator.py
 **Email**: xaaanyyyyy@gmail.com
 **GitHub**: [@xaaanyyyyy-arch](https://github.com/xaaanyyyyy-arch)
 
+## Документація
+
+Більш детальний опис функцій і приклади використання можна знайти у файлі [DOCUMENTATION.md](DOCUMENTATION.md).
+
+## Функції проекту
+
+| Функція      | Опис                                      | Приклад виклику                  |
+|:------------ |:----------------------------------------:| --------------------------------:|
+| `add(a, b)`  | Додає два числа                           | `add(2, 3)  # Виведе 5`         |
+| `subtract(a, b)` | Віднімає друге число від першого       | `subtract(5, 2)  # Виведе 3`    |
+| `print_main()` | Виводить повідомлення з main.py          | `print_main()`                   |
+| `run_test()`   | Виводить повідомлення з test.py          | `run_test()`                     |
+
+
 
